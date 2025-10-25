@@ -2,6 +2,8 @@
  * View model definition
  */
 
-const model = {
-    
+import { store } from "openrct2-flexui";
+
+export const model = {
+    newWinText: store<string>("")
 }
