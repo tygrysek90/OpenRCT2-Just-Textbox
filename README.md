@@ -15,11 +15,11 @@ ______
 _______
 
 ### Issues, feature requests, contacting the author
-Issues page up here, otherwise I'm avalible via OpenRCT2 discord (just tag @tygrysek90 in #plugin or #off-topic)
+Issues page up here, otherwise I'm available via OpenRCT2 discord (just tag @tygrysek90 in #plugin or #off-topic)
 
 _______
 
 ### Thanks to & building from source
 Wait, how this can be together?
 
-Easily! Since I wanted to thank to [Basssiiie](https://github.com/Basssiiie) for creating OpenRCT2-Simple-Typescript-Template and FlexUi that i boldly use in this micro-plugin, lol ... and there is my own plugin template that actualy combines both of those two, and you can read [build instruction there](https://github.com/tygrysek90/OpenRCT2-Tiger-Plugin-Template?tab=readme-ov-file#how-to-start). Or if you are familiar with Basssiiie's template, just look at extra commands in `package.json`.
+Easily! Since I wanted to thank to [Basssiiie](https://github.com/Basssiiie) for creating OpenRCT2-Simple-Typescript-Template and FlexUi that i boldly use in this micro-plugin, lol ... and there is my own plugin template that actually combines both of those two, and you can read [build instruction there](https://github.com/tygrysek90/OpenRCT2-Tiger-Plugin-Template?tab=readme-ov-file#how-to-start). Or if you are familiar with Basssiiie's template, just look at extra commands in `package.json`.
