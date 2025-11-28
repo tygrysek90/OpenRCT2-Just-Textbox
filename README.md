@@ -1,3 +1,6 @@
+#### I have ceased my activities on GitHub. Contents of this repository are no longer maintained.
+
+
 # OpenRCT2-Just-Textbox
 #### Do you need to just input some text on your screen and have it instantly in OpenRCT2 style?
 
